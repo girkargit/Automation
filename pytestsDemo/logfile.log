@@ -1,0 +1,6 @@
+2023-02-09 22:24:57,278 :INFO :test_editProfile :Abhilash
+2023-02-09 22:24:57,278 :INFO :test_editProfile :Girkar
+2023-02-09 22:27:36,954 :ERROR :pytestsDemo.test_06logging :A Major error.
+2023-02-09 22:27:36,954 :CRITICAL :pytestsDemo.test_06logging :Critical issue
+2023-02-09 22:27:37,131 :INFO :test_editProfile :Abhilash
+2023-02-09 22:27:37,131 :INFO :test_editProfile :Girkar

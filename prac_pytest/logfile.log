@@ -1,0 +1,9 @@
+2023-09-19 16:51:52,931 :INFO :test_logging :rahul
+2023-09-19 16:51:52,931 :INFO :test_logging :shetty
+2023-09-19 16:53:58,179 :DEBUG :prac_pytest.test_logging :A debug statment is executed.
+2023-09-19 16:53:58,179 :INFO :prac_pytest.test_logging :Information statment.
+2023-09-19 16:53:58,179 :WARNING :prac_pytest.test_logging :Something is in warning mode.
+2023-09-19 16:53:58,179 :ERROR :prac_pytest.test_logging :A Major error.
+2023-09-19 16:53:58,179 :CRITICAL :prac_pytest.test_logging :Critical issue
+2023-09-19 16:53:58,319 :INFO :test_logging :rahul
+2023-09-19 16:53:58,319 :INFO :test_logging :shetty
